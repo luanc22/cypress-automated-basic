@@ -1,0 +1,49 @@
+{
+    "signup": {
+        "name": "Luan Cabral",
+        "cpf": "12345678912",
+        "email": "luan@ndd.com",
+        "whatsapp": "47999999999",
+        "address": {
+        "postalcode": "88523-060",
+        "propertyNumber": "431",
+        "street": "Rua Doutor Walmor Ribeiro",
+        "district": "Coral",
+        "city": "Lages/SC"
+        },
+        "delivery_method": "Moto",
+        "driverLicense": "images/cnh-example.jpg"
+    },
+
+    "invalidCPF": {
+        "name": "Luan Cabral",
+        "cpf": "123456789AA",
+        "email": "luan@ndd.com",
+        "whatsapp": "47999999999",
+        "address": {
+        "postalcode": "88523-060",
+        "propertyNumber": "431",
+        "street": "Rua Doutor Walmor Ribeiro",
+        "district": "Coral",
+        "city": "Lages/SC"
+        },
+        "delivery_method": "Moto",
+        "driverLicense": "images/cnh-example.jpg"
+    },
+
+    "invalidEmail": {
+        "name": "Luan Cabral",
+        "cpf": "12345678912",
+        "email": "luanemail.com.br",
+        "whatsapp": "47999999999",
+        "address": {
+        "postalcode": "88523-060",
+        "propertyNumber": "431",
+        "street": "Rua Doutor Walmor Ribeiro",
+        "district": "Coral",
+        "city": "Lages/SC"
+        },
+        "delivery_method": "Moto",
+        "driverLicense": "images/cnh-example.jpg"
+    }
+}
